@@ -1,0 +1,39 @@
+_repo: The-Man-of-Feeling_5083
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mackenzie, Henry
+    alias: Mackenzie, H. (Henry)
+    birthdate: 1745
+    deathdate: 1831
+    gutenberg_agent_id: '1693'
+    url: http://www.gutenberg.org/2009/agents/1693
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Mackenzie
+description: "The Man of Feeling is a sentimental novel published in 1771, written\
+  \ by Scottish author Henry Mackenzie. The novel presents a series of moral vignettes\
+  \ which the naïve protagonist Harley either observes, is told about, or participates\
+  \ in. This novel is often seen to contain elements of the Romantic novel, which\
+  \ became prolific in the years following its publishing.\n\n\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5083'
+  wikidata: Q7750109
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sentimentalism -- Fiction'
+- !lcsh 'Benevolence -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcc 'PR'
+- !lcsh 'Failure (Psychology) -- Fiction'
+- !lcsh 'Gothic fiction (Literary genre)'
+- GITenberg
+title: The Man of Feeling
+url: http://www.gutenberg.org/ebooks/5083
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Man_of_Feeling
+- https://no.wikipedia.org/wiki/The_Man_of_Feeling
